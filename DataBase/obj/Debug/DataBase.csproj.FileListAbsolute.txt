@@ -1,0 +1,9 @@
+C:\Users\Charlie\source\repos\TPFinalNivel2_Marques\DataBase\bin\Debug\DataBase.dll
+C:\Users\Charlie\source\repos\TPFinalNivel2_Marques\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Charlie\source\repos\TPFinalNivel2_Marques\DataBase\bin\Debug\Dominio.dll
+C:\Users\Charlie\source\repos\TPFinalNivel2_Marques\DataBase\bin\Debug\Dominio.pdb
+C:\Users\Charlie\source\repos\TPFinalNivel2_Marques\DataBase\obj\Debug\DataBase.csproj.AssemblyReference.cache
+C:\Users\Charlie\source\repos\TPFinalNivel2_Marques\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Charlie\source\repos\TPFinalNivel2_Marques\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\Charlie\source\repos\TPFinalNivel2_Marques\DataBase\obj\Debug\DataBase.dll
+C:\Users\Charlie\source\repos\TPFinalNivel2_Marques\DataBase\obj\Debug\DataBase.pdb
